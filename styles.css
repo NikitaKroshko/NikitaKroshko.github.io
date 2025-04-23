@@ -39,6 +39,15 @@ nav a:hover {
   padding: 30px;
 }
 
+.projects a {
+  color: white;
+  text-decoration: none;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+}
+
 .projects ul {
   list-style-type: none;
   padding: 0;
