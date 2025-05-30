@@ -75,7 +75,7 @@ footer {
 }
 
 .textarea {
-  width: 100%;
+  width: 60%;
   min-height: 150px;
   padding: 12px 16px;
   font-size: 16px;
@@ -89,10 +89,4 @@ footer {
   transition:
     border-color 0.3s ease,
     box-shadow 0.3s ease;
-}
-
-.textarea:focus {
-  border-color: #66afe9;
-  outline: none;
-  box-shadow: 0 0 0 3px rgba(102, 175, 233, 0.4);
 }
