@@ -2,5 +2,7 @@
 In order to check the vaiability of the CV use https://careerset.com/
 #Current eval
 The current evaluation is 86/100 for the CV
+#Previous eval
+The previous evaluation was 84/100 for the CV
 #Goal eval
 The goal for the eval is 90+
