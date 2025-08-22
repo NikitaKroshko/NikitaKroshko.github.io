@@ -11,3 +11,4 @@ The imporvement wanted is 4
 #Goal eval
 The goal for the eval is 90+
 #Need to do
+Seperate the CV so that there is one CV for software related roles and one for hardware related roles
