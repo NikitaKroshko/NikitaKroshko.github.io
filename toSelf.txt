@@ -12,4 +12,3 @@ The imporvement wanted is 4
 The goal for the eval is 90+
 #Need to do
 Seperate the CV so that there is one CV for software related roles and one for hardware related roles
-Find out how to make it be software.website.com and hardware.website.com.
